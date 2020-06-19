@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/text2slide/static/css/main.35dc6bf6.chunk.css",
+    "main.js": "/text2slide/static/js/main.83cd662c.chunk.js",
+    "main.js.map": "/text2slide/static/js/main.83cd662c.chunk.js.map",
+    "runtime~main.js": "/text2slide/static/js/runtime~main.66b54646.js",
+    "runtime~main.js.map": "/text2slide/static/js/runtime~main.66b54646.js.map",
+    "static/js/2.6794a5dc.chunk.js": "/text2slide/static/js/2.6794a5dc.chunk.js",
+    "static/js/2.6794a5dc.chunk.js.map": "/text2slide/static/js/2.6794a5dc.chunk.js.map",
+    "index.html": "/text2slide/index.html",
+    "precache-manifest.e4a7ed00d41929c3fdf30f74d932bca0.js": "/text2slide/precache-manifest.e4a7ed00d41929c3fdf30f74d932bca0.js",
+    "service-worker.js": "/text2slide/service-worker.js",
+    "static/css/main.35dc6bf6.chunk.css.map": "/text2slide/static/css/main.35dc6bf6.chunk.css.map",
+    "static/media/card-profile1-square.jpg": "/text2slide/static/media/card-profile1-square.3122abf4.jpg",
+    "static/media/card-profile2-square.jpg": "/text2slide/static/media/card-profile2-square.788e3d36.jpg",
+    "static/media/card-profile4-square.jpg": "/text2slide/static/media/card-profile4-square.1a164917.jpg",
+    "static/media/card-profile6-square.jpg": "/text2slide/static/media/card-profile6-square.1f1f4900.jpg",
+    "static/media/profile-bg.jpg": "/text2slide/static/media/profile-bg.baf6b40a.jpg"
+  }
+}
